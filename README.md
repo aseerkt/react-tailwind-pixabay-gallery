@@ -69,4 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Modules
 
-- tailwindcss, postcss-cli , autoprefixer@9.8.6
+- `npx create-react-app tailwind-pixabay-gallery`
+- `yarn add -D tailwindcss postcss-cli  autoprefixer@9.8.6`
+- `npx tailwind init tailwind.css`
+- `touch postcss.config.js`
